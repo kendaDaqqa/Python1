@@ -1,0 +1,14 @@
+def main():
+    print("Please enter your name:")
+    name = input()
+
+    print("Please enter your age:")
+    age = input()
+
+    print("Please enter your date of birth (format: YYYY-MM-DD):")
+    date_of_birth = input()
+
+    print("Here are the details you entered:")
+    print("Name:", name)
+    print("Age:", age)
+    print("Date of Birth:", date_of_birth)
